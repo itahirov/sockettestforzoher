@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'itsockettest'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8753ac6321064f1d8e98f852ecf54f45 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c9bc4024cce347309ddc4297bd5c9b97 }}
         package: .
